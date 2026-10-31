@@ -1,6 +1,6 @@
 # Hi, I'm Nashif Dewan (Raiden)
 
-Developer and AI and Computer Science educator from Assam, India.
+Developer and AI and Computer Science enthusiast from Assam, India.
 
 ## Projects
 
